@@ -1,4 +1,4 @@
-![Mô hình ERD](ERD-1.png)
+![Mô hình ERD](ERD.png)
 
 ## Tạo Cơ sở dữ liệu
     USE supermartket_mgnt;
