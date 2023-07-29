@@ -3,7 +3,7 @@ SELECT employee.*,
 		salary +(salary * role_allowance) +role_bonus as Luong_thuc
 FROM employee, employee_role
 
-
+--abc
 -- 2. Xuất ra phòng ban có mức lương thực nhận cao nhất
 SELECT S.department_id, S.department_name, S.Tong_luong_thuc
 FROM(

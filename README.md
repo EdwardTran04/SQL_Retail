@@ -721,5 +721,3 @@
     GROUP BY orders.order_id, orders.branch_id, orders.customer_id, orders.order_date, orders.voucher_id, orders.payment_method
     HAVING count (distinct product.product_category_id) =3
 
-
--- 21.
